@@ -1,5 +1,3 @@
-# springbootA575D
-springbootA575D校园活动发布系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
